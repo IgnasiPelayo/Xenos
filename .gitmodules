@@ -1,0 +1,3 @@
+[submodule "Xenos/vendor/spdlog"]
+	path = Xenos/vendor/spdlog
+	url = https://github.com/gabime/spdlog
